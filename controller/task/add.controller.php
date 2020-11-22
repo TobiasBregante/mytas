@@ -26,8 +26,8 @@
                 array(
                     ':id' => strval(uniqid()),
                     ':title' => strval($title),
-                    'content' => strval($task),
-                    'since' => strval(date("d-m-Y"))
+                    ':content' => strval($task),
+                    ':since' => strval(date("d-m-Y"))
                 )
             );
 
