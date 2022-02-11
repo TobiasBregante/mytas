@@ -3,11 +3,15 @@
         ?>
         <head>
             <meta charset="UTF-8">
+            
             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+            
             <meta name='author' content='Tobías Nazareno Bregante'/>
+
             <meta name="description" 
                 content="Tasks platform for the E.T. 29º Reconquista of Bs.As"/>
             <title><?= $title_page ?></title>
+            
             <!-- CSS -->
             <link rel="stylesheet" 
                 href="view/public/css/app.css"/>

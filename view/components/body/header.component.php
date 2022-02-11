@@ -8,7 +8,9 @@
         ?>
         <header class="row">
             <nav class="navbar navbar-expand-lg navbar-dark col-12 col-sm-12 col-lg-12 col-xl-12">
-                <a class="navbar-brand" href="#">Mis Tareas E.T. 29º</a>
+                <a class="navbar-brand" href="#">
+                    <img style='width:150px; height: auto;' src="../view/public/img/logo.png" alt="schedone">
+                </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
